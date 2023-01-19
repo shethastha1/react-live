@@ -1,0 +1,31 @@
+{
+  "name": "namaste-react-live",
+  "version": "1.0.0",
+  "description": "From namaste react live",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "proxy":     "https://www.swiggy.com"
+  ,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shethastha1/react-live.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shethastha1/react-live/issues"
+  },
+  "homepage": "https://github.com/shethastha1/react-live#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist" : [
+    "last 2 versions"
+  ]
+}
